@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @olahz13
+- 👀 I’m interested in Healthcare analytics and data science.
+- 🌱 I’m currently learning data architecture.
+- 💞️ I’m looking to collaborate on fundamentals of coding, data science, and analytics.
+- 📫 How to reach me: DM me!
